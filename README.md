@@ -75,7 +75,7 @@ Pizza world is a full-stack web application built using Next.js 14, Node.js, and
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Shivam171/pizza-world.git
+   https://github.com/gowtham6477/Pizza-World.git
    cd pizza-world
    ```
 
