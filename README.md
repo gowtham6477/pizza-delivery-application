@@ -11,7 +11,6 @@ Pizza world is a full-stack web application built using Next.js 14, Node.js, and
    <img src="https://github.com/Shivam171/pizza-world/assets/66107248/0a195a2a-131d-489a-ba4c-d959627b0a3a" height="525px" width="auto"/>
 </div>
 
-#### Checkout live demo on [vercel](https://pizza-world.vercel.app/).
 
 
 ## ✨ Features
