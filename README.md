@@ -62,7 +62,7 @@ Pizza world is a full-stack web application built using Next.js 14, Node.js, and
 
 - Node.js
 - MongoDB
-- Firebase Account (for image uploads)
+- Cloudinary (for image uploads)
 - Shopify or Stripe or RazorPay Account (for payment processing)
 
 ### Installation
