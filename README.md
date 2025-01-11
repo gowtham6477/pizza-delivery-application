@@ -54,7 +54,6 @@ Pizza world is a full-stack web application built using Next.js 14, Node.js, and
 - **[Next-Auth](https://next-auth.js.org/getting-started/example):** For authentication and session management.
 - **[Next Adapters](https://next-auth.js.org/adapters):** For adapting various Next.js features.
 - **[Uniqid](https://classic.yarnpkg.com/en/package/uniqid):** For generating unique IDs.
-- **[Firebase](https://firebase.google.com/):** For handling image uploads to Firebase storage.
 
 ## 🚀 Getting Started
 
