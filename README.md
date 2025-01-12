@@ -88,7 +88,6 @@ Pizza world is a full-stack web application built using Next.js 14, Node.js, and
    NEXTAUTH_SECRET=<Your NextAuth secret>
    GOOGLE_CLIENT_ID=<Your Google client id>
    GOOGLE_CLIENT_SECRET=<Your Google client secret key>
-   FIREBASE=<Refer .env.example>
 
    ```
 
