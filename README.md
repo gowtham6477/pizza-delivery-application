@@ -2,7 +2,7 @@
 
 # 🍕 Pizza world 
 
-Pizza world is a full-stack web application built using Next.js 14, Node.js, and MongoDB with Tailwind CSS. It offers a complete online pizza ordering experience, including user authentication, shopping cart functionality, and an admin dashboard for managing products, categories, users, and orders.
+Pizza world is a full-stack web application built using Next.js 14, Node.js, and MongoDB with Tailwind CSS. It offers a complete online pizza ordering experience, including user authentication, shopping cart functionality, and an admin dashboard for managing products, categories, users, and orders..
 
 
 ![Preview](pizza1.png)
